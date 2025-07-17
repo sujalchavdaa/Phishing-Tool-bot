@@ -1,141 +1,111 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&center=true&vCenter=true&color=FF00FF&background=00000000&width=900&lines=UNIVERSE+OF+SPIDEY;Presenting+you+a+Telegram+Based+RAT;Control+Devices+Remotely+like+a+Superhero;+King+%7C+Spidy" />
-</p>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=A+Cybernetic+RAT+for+Hackers+%26+Geeks;Only+for+Developers+%7C+Not+for+Crime;Learn+Hacking+%7C+Not+Hurting!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&center=true&vCenter=true&color=FF4500&background=00000000&width=1000&lines=Sujal's+Ultimate+Phishing+Toolkit;Silently+Control+Devices+%7C+Train+Like+A+Pro;Elite+Telegram-Based+Attack+Simulation+Tool" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/popeye68/TELE-RAT?color=%2300FF00&style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/popeye68/TELE-RAT?color=%2300D1FF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/popeye68/TELE-RAT?color=%23FF0000&style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=4000&pause=1000&color=00FFD1&center=true&vCenter=true&width=1000&lines=Phishing+%7C+Payload+Delivery+%7C+Social+Engineering;Crafted+For+Cyber+Security+Students+%26+Ethical+Pentesters" />
 </p>
-
-
----
-
-## 🚀 About **TELE-RAT**
-
-> **The next-gen Android device control framework** built for ethical developers, learners, and curious minds.
-
-**TELE-RAT** isn’t just another remote tool — it’s a powerhouse that delivers **seamless**, **secure**, and **supercharged control** over Android devices like never before. Crafted with performance and reliability at its core, TELE-RAT is your digital Swiss Army knife for ethical remote access.
-
-### 🧠 Key Ingredients
-
-- **🖥 Server Side:**  
-  - Built on **Node.js**, **Express.js**, and **Socket.IO**  
-  - Ensures **real-time** device communication and fast command response
-
-- **📱 Android Client:**  
-  - Crafted using **Kotlin**  
-  - Designed for stability, stealth, and optimized performance
-
-### ✨ Why TELE-RAT?
-
-- **Real-time Device Control**  
-- **Encrypted Communication Channels**  
-- **Modular Architecture** for easy expansion  
-- **Cross-Platform Support** and future-ready design  
-
----
-
-## ✨ Features of TELE-RAT
-
-> Fully loaded, stealthy, and developer-friendly Android remote control suite.
-
-<details>
-<summary>🔧 Basic Remote Functions</summary>
-
-- 🔴 **Real-time communication**
-- 📳 **Remotely Vibrate Device**
-- 🗨️ **Show Toast Message** *(instant bottom-screen pop-up)*
-- ✅ **Auto Start on Boot**
-- 🔐 **Advanced Keylogger** *(logs all keystrokes)*
-- 📋 **Get Last Copied Clipboard Text**
-
-</details>
-
-<details>
-<summary>📡 Device Info & Control</summary>
-
-- 📡 **SIM Info Fetching** *(network provider details)*
-- 🛰️ **Live Device Location Access**
-- 👤 **Fetch Complete Contact List**
-- 💻 **List All Installed Applications**
-- 🔔 **Notification Reader**
-- 🔔 **Send Custom Notification** *(with click action)*
-
-</details>
-
-<details>
-<summary>📩 Messaging Functions</summary>
-
-- ✉️ **Read All Incoming Messages**
-- ✉️ **Send SMS to Any Number**
-- ✉️ **Mass SMS Sender** *(send to all contacts)*
-
-</details>
-
-<details>
-<summary>📷 Media & Surveillance</summary>
-
-- 📷 **Capture Photo from Front or Back Camera**
-- 🎙 **Microphone Audio Capture** *(set custom duration)*
-- 📒 **Gallery Image Fetcher** *(pull all stored photos)*
-
-</details>
-
-<details>
-<summary>📁 File Management</summary>
-
-- 📁 **File Grabber** *(download any file or folder)*
-- 📁 **File/Folder Deleter**
-- 📁 **Full File Manager Access**
-
-</details>
-
-<details>
-<summary>🌐 Web & Phishing Tools</summary>
-
-- 🌐 **Custom WebView injection**
-- 🕵️ **Open Phishing or Custom URLs Silently**
-
-</details>
-
-<details>
-<summary>✨ Other Highlights</summary>
-
-- ✨ **Beautiful Telegram Bot Interface**
-- 💥 **...And Many More Powerful Tools!**
-
-</details>
-
----
-
-## ⚙️ Setup Guide
-
-### ▶️ Watch Setup Video on Telegram
 
 <p align="center">
-  <a href="https://t.me/spidy_bots/17">
-    <img src="https://raw.githubusercontent.com/aleen42/badges/master/src/telegram.svg" width="250" alt="Watch video" />
-  </a>
+  <img src="https://img.shields.io/badge/Developed%20By-Sujal%20Chavda-FF1493?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Category-Phishing%20%7C%20Payloads-blueviolet?style=for-the-badge&logo=security" />
+  <img src="https://img.shields.io/badge/Platform-Telegram%20%7C%20Android-green?style=for-the-badge&logo=android" />
 </p>
 
-> Click the Telegram banner above to view the full setup video.
+---
+
+## 🧠 What is Sujal's Phishing Tool?
+
+> 💡 A next-generation phishing & attack simulation framework built for learning, training, and demonstrating **real-world cyber threats** — in a **legal**, **controlled**, and **safe** environment.
+
+This is not just a phishing tool. It is your **all-in-one attacker simulation lab** designed for:
+
+- Ethical Hacking Practice  
+- Cyber Awareness Demonstrations  
+- Penetration Testing Simulations  
+- Payload + Social Engineering Deployment  
+
+> 🛡️ Created by **Sujal** — For ethical hackers who want full control, not boundaries.
 
 ---
-## ⚠️ **Disclaimer**
->
-> This project is created strictly for **educational and research purposes**. 
-> Misuse of this tool for unauthorized access, surveillance, or harm is strictly prohibited and may be punishable by law.
->
-> The authors are **not responsible** for any damage or misuse caused by this tool.
-> Use it responsibly, ethically, and only in environments where you have **explicit permission**.
->
+
+## 🎯 Core Objectives
+
+✅ Build, Launch & Monitor phishing pages  
+✅ Simulate attacker behavior using Telegram  
+✅ Educate users on phishing risks  
+✅ Craft custom payloads for realistic simulation  
+✅ Execute phishing silently using WebView, Toasts, etc.  
+✅ Train without harming anyone  
+
 ---
-🧰 Quick Access
-<p align="center"> <a href="https://github.com/POPEYE68/TELE-RAT/fork"> <img src="https://img.shields.io/badge/Fork%20Repo-181717?style=for-the-badge&logo=github" alt="Fork" /> </a> <a href="https://github.com/POPEYE68/TELE-RAT/stargazers"> <img src="https://img.shields.io/github/stars/POPEYE68/TELE-RAT?style=for-the-badge" alt="Stars" /> </a> <a href="https://t.me/SPIDY_BOTS"> <img src="https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram" alt="Telegram" /> </a> </p>
-<p align="center"> <b>Made with ❤️ by <a href="https://github.com/popeye68">SPIDY</a></b><br> <i>For educational use only. We are not responsible for misuse.</i> </p>
+
+## 🚀 Features Breakdown
+
+<details>
+<summary>🧰 Phishing Control Panel</summary>
+
+- 🧠 Full Telegram Bot Control  
+- 🕵️ Create Fake Login Pages (Google, Instagram, Facebook, etc.)  
+- 🌐 Auto URL Shortening for disguise  
+- 🖼️ Custom Page Hosting  
+- 📡 Real-time credentials capture  
+
+</details>
+
+<details>
+<summary>🎭 Payload Delivery & Social Engineering</summary>
+
+- 💣 Auto WebView Injection (silent page load)  
+- 🛠️ Toast & Notification Spoof  
+- 🔗 One-click execution with fake UI  
+- 🔐 Capture password or OTP silently  
+- 📸 Optional front cam capture on submit  
+
+</details>
+
+<details>
+<summary>🛡️ Defensive Simulation</summary>
+
+- 🔍 Awareness Training Demos  
+- ⚠️ Fake Warning Pop-ups  
+- 🔗 Spoofed Link Redirector  
+- 🎯 Targeted Phishing Simulation for educational orgs  
+
+</details>
+
+<details>
+<summary>📊 Logging & Data Panel</summary>
+
+- 📥 Live credentials in Telegram  
+- 📍 IP Address Logging  
+- 🧭 Location Tracking via GPS links  
+- 📁 Export logs to TXT/CSV  
+
+</details>
+
+---
+
+## 🧑‍💻 Developer Credit
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20By-Sujal%20Chavda-orange?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <b>Designed, Developed & Secured by Sujal 💀</b><br>
+  <i>No third-party branding • No promo links • Just pure source domination.</i>
+</p>
+
+---
+
+## ⚠️ Legal Disclaimer
+
+> 🚨 This tool is developed **strictly for educational & awareness training only**.  
+> ❌ Do not use this tool on live targets or devices without explicit consent.  
+> ⚖️ The developer **Sujal** takes **zero responsibility** for misuse, damage, or unauthorized activity caused by others.  
+> ✅ Use it wisely, for learning — not harming.
+
+---
+
+<p align="center"><b>Want to learn the attacker’s mindset?</b><br>Train with <span style="color:#FF00FF"><b>Sujal's Phishing Toolkit</b></span></p>
